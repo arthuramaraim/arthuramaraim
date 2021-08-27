@@ -1,4 +1,5 @@
-### Hi there 👋
+### Seja Bem-vindo! Eu sou o arthuramaraim e esse é o meu repositório do Github.
+
 
 <!--
 **arthuramaraim/arthuramaraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
