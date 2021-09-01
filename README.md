@@ -1,6 +1,6 @@
 
   ## Opa! Seja bem-vindo ao meu Github, eu sou o Arthur e esse é o meu perfil.
-  ## Welcome!
+  # Welcome!
  <div>
   <a href="https://github.com/arthuramaraim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuramaraim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
