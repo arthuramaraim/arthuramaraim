@@ -1,7 +1,6 @@
 
-  # Opa! Seja bem-vindo ao meu Github, eu sou o Arthur e esse é o meu perfil. 
-  <br>
-  Welcome!
+  # Opa! Seja bem-vindo ao meu Github, eu sou o Arthur e esse é o meu perfil do github. 
+
   
  <div>
   <a href="https://github.com/arthuramaraim">
