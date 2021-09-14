@@ -1,5 +1,5 @@
 
-  # Opa! Seja bem-vindo ao meu Github, eu sou o Arthur e esse é o meu perfil do github. 
+  # Opa! Seja bem-vindo ao meu Github, eu sou o Arthur e esse é o meu perfil. 
 
   
  <div>
