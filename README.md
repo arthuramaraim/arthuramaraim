@@ -30,6 +30,7 @@
 
   </div>
 
+  ![Snake animation](https://github.com/arthuramaraim/arthuramaraim/blob/output/github-contribution-grid-snake.svg)
 <!--
 **arthuramaraim/arthuramaraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
